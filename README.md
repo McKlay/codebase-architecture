@@ -102,7 +102,7 @@ New chapters are being added weekly. Feedback, ideas, and contributions are alwa
 
 ## License
 
-MIT License © Clay Mark Sarte
+MIT License © Clay Mark Sarte  
 Open for learning, remixing, and evolving—credit where credit is due.
 
 ---
