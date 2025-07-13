@@ -17,7 +17,7 @@ Built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) | Cov
 
 ## What This Is
 
-This is a book-style, structured guide for software engineers who care deeply about **folder structure, modularity, scalability, and architectural sanity**—especially in the age of AI-driven, full-stack applications.
+This is a book-style, structured guide for software engineers who care deeply about **folder structure, modularity, scalability, and architectural sanity**—especially in the age of AI-driven, full-stack applications. 
 
 Whether you're:
 - building your first AI-powered prototype,
