@@ -202,7 +202,7 @@ hide:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.5 Refactor patterns and heuristics
 
-&nbsp;&nbsp;&nbsp;&nbsp; Chapter 16: [onorepos and Shared Logic](chapter16.md)
+&nbsp;&nbsp;&nbsp;&nbsp; Chapter 16: [Monorepos and Shared Logic](chapter16.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.1 When to use a monorepo
 
@@ -216,7 +216,7 @@ hide:
 
 &nbsp;&nbsp;&nbsp;&nbsp; Chapter 17: [Organizing Assets, Tests, and Configuration](chapter17.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.1 est practices for `/assets`, `/env`, `/docs`, and `/configs`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.1 Best practices for `/assets`, `/env`, `/docs`, and `/configs`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.2 Feature-based vs. centralized testing
 
